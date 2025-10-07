@@ -28,7 +28,3 @@
 ## 🧠 Skills Demonstrated
 Power Query (transformations), data modeling (Star schema), DAX KPIs, report design & UX, business storytelling.
 
-## 📸 Screenshots (placeholders)
-- `assets/overview.png`
-- `assets/by-product.png`
-- `assets/by-city.png`
